@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "jafarobeidat-dbsrv-dev"
+            "value": "jafarobeidat-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "jafarobeidat-db-dev"
+            "value": "jafarobeidat-db-uat"
         },
         "appServicePlanName": {
-            "value": "jafarobeidat-asp-dev"
+            "value": "jafarobeidat-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "jafarobeidat-be-dev"
+            "value": "jafarobeidat-be-uat"
         },
         "appServiceAppName": {
-            "value": "jafarobeidat-fe-dev"
+            "value": "jafarobeidat-fe-uat"
         },
         "location": {
             "value": "North Europe"
